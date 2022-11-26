@@ -1,4 +1,4 @@
-# PAT-Open-MPI
+# Open-MPI
 
 ## Installation :
 
